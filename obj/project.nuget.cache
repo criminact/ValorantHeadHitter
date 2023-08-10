@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RPxzQvXFBhPqH8vBYz7NpwskJoLi1X0W++OwFL/QSZHq8Lck11kPbL743NWOJatBAyAhVc7upJedp6/fY57v/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamme\\OneDrive\\Desktop\\ValorantHeadHitter\\ValorantHeadHitter\\ValorantHeadHitter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamme\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\hamme\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
